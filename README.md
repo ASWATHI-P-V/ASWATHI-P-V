@@ -10,7 +10,7 @@
 https://www.linkedin.com/in/aswathi-pv-249081254/
 - Languages and Tools:
 <p align="center">
-  <a href="https://www.python.org"><img src="[https://www.python.org/static/community_logos/python-logo.png"](https://www.python.org/) alt="Python" width="50" height="50"/></a>
+  <a href="https://www.python.org"><img src="[https://www.python.org/static/community_logos/python-logo.png"](https://www.python.org/)" alt="Python" width="50" height="50"/></a>
   <a href="https://reactjs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50"/></a>
   <a href="https://nodejs.org"><img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="50" height="50"/></a>
   <a href="https://getbootstrap.com"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50"/></a>
