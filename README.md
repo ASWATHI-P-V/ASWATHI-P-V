@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate on projects involving web development, mobile app development, and machine learning.
 - 💬 Ask me about Node js,Express js,Mongodb,Mysql,CSS
 - 📫 How to reach me: aswathipv0301@gmail.com
-Connect with me:
+- Connect with me:
 https://www.linkedin.com/in/aswathi-pv-249081254/
-Languages and Tools:
+- Languages and Tools:
 https://www.python.org/
 https://nodejs.org/en
 https://react.dev/
