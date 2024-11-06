@@ -9,6 +9,7 @@
 - Connect with me:
 https://www.linkedin.com/in/aswathi-pv-249081254/
 - Languages and Tools:
-https://www.python.org/
+[![Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org)
+
 https://nodejs.org/en
 https://react.dev/
